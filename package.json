@@ -1,0 +1,14 @@
+{
+  "name": "socialanimal-twitter",
+  "version": "0.0.1",
+  "description": "Twitter provider for Socialanimal",
+  "author": "Joshua Thayer <joshuamilesthayer@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/joshuathayer/socialanimal-twitter.git"
+  },
+  "main": "./lib/socialanimal-twitter",
+  "dependencies": { },
+  "engines": { "node": ">= 0.4.0" },
+  "keywords": ["socialanimal", "twitter"]
+}
